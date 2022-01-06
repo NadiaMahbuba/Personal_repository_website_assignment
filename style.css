@@ -10,7 +10,7 @@ h1{
     font-size: 60px;
     border-left:7px solid hotpink;
 }
-section{
+.profile{
     display:flex;
     justify-content: center;
 }
@@ -37,4 +37,39 @@ border-radius: 5px;
 }
 #pad_top{
     padding-top: 20px;
+}
+.coral_color{
+    color:coral;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    font-size:20px;
+}
+.missions{
+display: flex;
+}
+.triplet{
+width:33.33%;
+border-radius: 10px;
+margin:10px 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+.image_width{
+width:200px;
+height:200px;
+}
+#mission{
+background-color: linen;
+margin-left:60px;
+}
+#vision{
+background-color: peachpuff;
+}
+#goals{
+background-color:lightyellow;
+margin-right: 60px;
 }
