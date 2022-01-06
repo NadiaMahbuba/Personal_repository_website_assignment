@@ -1,0 +1,40 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Poppins', sans-serif;
+}
+.pink_color{
+    color:pink;
+}
+h1{
+    font-size: 60px;
+    border-left:7px solid hotpink;
+}
+section{
+    display:flex;
+    justify-content: center;
+}
+.half{
+    width:50%;
+    padding: 10px;
+    margin:20px 20px;
+   padding:40px 40px;
+}
+.half img{
+    width:60%;
+}
+.half p{
+    padding-bottom:20px;
+   
+}
+.colorful-button{
+text-decoration: none;
+background-image: linear-gradient(salmon,tan);
+color:whitesmoke;
+padding:10px 40px;
+border-radius: 5px;
+
+}
+#pad_top{
+    padding-top: 20px;
+}
